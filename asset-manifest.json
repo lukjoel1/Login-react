@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-react/static/css/main.cdbf0aa6.chunk.css",
+    "main.js": "/Login-react/static/js/main.dc911824.chunk.js",
+    "main.js.map": "/Login-react/static/js/main.dc911824.chunk.js.map",
+    "runtime-main.js": "/Login-react/static/js/runtime-main.157db822.js",
+    "runtime-main.js.map": "/Login-react/static/js/runtime-main.157db822.js.map",
+    "static/js/2.c8dfbfda.chunk.js": "/Login-react/static/js/2.c8dfbfda.chunk.js",
+    "static/js/2.c8dfbfda.chunk.js.map": "/Login-react/static/js/2.c8dfbfda.chunk.js.map",
+    "static/js/3.70c05618.chunk.js": "/Login-react/static/js/3.70c05618.chunk.js",
+    "static/js/3.70c05618.chunk.js.map": "/Login-react/static/js/3.70c05618.chunk.js.map",
+    "index.html": "/Login-react/index.html",
+    "static/css/main.cdbf0aa6.chunk.css.map": "/Login-react/static/css/main.cdbf0aa6.chunk.css.map",
+    "static/js/2.c8dfbfda.chunk.js.LICENSE.txt": "/Login-react/static/js/2.c8dfbfda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.157db822.js",
+    "static/js/2.c8dfbfda.chunk.js",
+    "static/css/main.cdbf0aa6.chunk.css",
+    "static/js/main.dc911824.chunk.js"
+  ]
+}
